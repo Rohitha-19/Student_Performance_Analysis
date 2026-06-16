@@ -12,7 +12,6 @@ This project was developed for learning and practice purposes while exploring da
 * Work with CSV files using Pandas
 * Perform basic data analysis
 * Create visualizations using Matplotlib
-* Organize and document a project for GitHub
 
 ## Features
 
